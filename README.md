@@ -1,5 +1,5 @@
 # Sobre o Projeto
-O projeto consiste na criação de uma tela de login e cadastro utilizando uma autenticação para fazer requisições de listagem de cervejas por meio de filtros, as informações das cervejas são obtidas por meio da Punk API.
+O projeto consiste na criação de uma tela de login e cadastro utilizando uma autenticação Bearer Token para fazer requisições de listagem de cervejas por meio de filtros, as informações das cervejas são obtidas por meio da Punk API.
 
 ## Visualização do Projeto
 
