@@ -6,6 +6,17 @@ O projeto consiste na criação de uma tela de login e cadastro utilizando uma a
 
 https://github.com/linogt/apipunkproject/assets/75547468/51f028b4-dab3-4930-9939-525c4ad06a0e
 
+## Configuração do Projeto
+* Clone o Repositório
+* Abra o Front-end no Visual Studio Code
+* Escreva "npm install" no terminal
+* Escreva "npm run dev" no terminal
+* Vá para o link que o terminal exibir
+* Abra o Back-end no IntelliJ
+* Crie o Banco de Dados no SQL
+* De "Run" no IntelliJ
+* O Projeto já está pronto para execução
+
 
 ## Back-end Dependências
 
